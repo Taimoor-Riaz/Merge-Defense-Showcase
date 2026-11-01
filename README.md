@@ -18,7 +18,10 @@ Unity 6 · C# · URP 2D · Android
 
 ## See it in action
 
-- 🎬 [Watch the showreel](https://www.youtube.com/watch?v=8tkrPeMQgKI)
+[![Watch the Competitive Survival Merge Defense gameplay video](https://img.youtube.com/vi/tVQEd_9fZc0/maxresdefault.jpg)](https://www.youtube.com/watch?v=tVQEd_9fZc0)
+
+- 🎬 [Watch the Merge Defense gameplay video](https://www.youtube.com/watch?v=tVQEd_9fZc0)
+- 🎞️ [Watch my full showreel](https://www.youtube.com/watch?v=8tkrPeMQgKI)
 - 🌐 [More projects on my portfolio](https://taimoor-riaz.github.io/#projects)
 
 ## Source code
